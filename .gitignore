@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+
+# Environment configuration
+.env
+
+# SQLite database
+db/*.db
+
+# System files
+.DS_Store
+*.log
+npm-debug.log
+
+# Docker context
+.dockerignore
+
